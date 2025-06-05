@@ -11,7 +11,7 @@ tags: [excalidraw]
 
 ## Text Elements
 ## Embedded Files
-9e3d24c68319425702fcb93ca3b6ccd3d82f5ba2: [Pasted Image 20250602201401_890.svg](Pasted Image 20250602201401_890.svg.md)
+9e3d24c68319425702fcb93ca3b6ccd3d82f5ba2: [[Pasted Image 20250602201401_890.svg]]
 
 %%
 ## Drawing

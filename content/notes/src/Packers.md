@@ -1,7 +1,7 @@
 **Packers** are a tool to help obfuscate a program by compression.
 **How it works:** When a packed program is run, a small wrapper runs first to decompress the file and then run the unpacked file. 
-**How to detect:** [Detecting Packers](Detecting Packers.md)
-**Packing Files:** [Packing Files](Packing Files.md)
+**How to detect:** [[Detecting Packers]]
+**Packing Files:** [[Packing Files]]
 
 > [!TIP]
 > Packed and obfuscated code usually includes LoadLibrary and GetProcAddress 
@@ -12,4 +12,4 @@
 
 ---
 #### Original vs. Packed
-![image-30.png|388x197](image-30.png|388x197.md)
+![[image-30.png|388x197]]

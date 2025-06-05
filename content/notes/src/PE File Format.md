@@ -25,4 +25,4 @@
 - **.rsrc** - Contains resources that are not part of executable. Icons, menus, images, strings, etc.
 - **.reloc** - Contains information for relocation of library files 
 
-![image-70.png](image-70.png.md)
+![[image-70.png]]
